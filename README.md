@@ -9,6 +9,7 @@ This repository contains a series of practical assignments completed for the TSI
 - [`Time-Series-1/`](./Time-Series-1): Introduction to time series processing
 - [`Time-Series-2/`](./Time-Series-2): Advanced time series modeling and forecasting
 - [`audioMusicML/`](./audioMusicML): Audio/Music processing, Speech recognition and Deep Learning for Audio
+- [`deeplearning/`](./deeplearning): Deep learning labs, MLPs, CNNs and RNNs
 
 ## Topics Covered
 
@@ -38,6 +39,10 @@ This repository contains a series of practical assignments completed for the TSI
 - PSOLA Algoirthm for audio speed/pitch modification
 - Non Negative Matrix Factorization (NMF)
 
+### deeplearning
+- MLP labs for regression and classification
+- CNN labs for image recognition and vision
+
 ## Getting Started
 
 To run the notebooks:
@@ -55,5 +60,6 @@ TSIA-TP/
 ├── Time-Series-1/  
 ├── Time-Series-2/  
 ├── audioMusicML/  
+├── deeplearning/    
 └── README.md  
 
