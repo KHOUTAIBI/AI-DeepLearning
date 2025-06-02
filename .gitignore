@@ -166,3 +166,4 @@ cython_debug/
 
 # some directories to ignore
 MNIST/
+data/
